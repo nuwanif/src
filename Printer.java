@@ -9,7 +9,7 @@ public class Printer {
 	
 	int age=22;
 	String name;
-	name = "nuwani";
+	name = "vayama";
 
 	System.out.println(age);
 
@@ -29,7 +29,7 @@ public class Printer {
 	
 	double result;
 	
-	result=number/ 3.3;
+	result=number/ 3.4;
 	
 	
 	System.out.println(result);
@@ -40,5 +40,4 @@ public class Printer {
      }
 
 }
-
 
