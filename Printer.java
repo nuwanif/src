@@ -7,7 +7,7 @@ public class Printer {
 		
 	System.out.println("Printer App");
 	
-	int age=22;
+	int age=35;
 	String name;
 	name = "vayama";
 
